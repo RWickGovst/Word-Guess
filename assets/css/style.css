@@ -1,0 +1,44 @@
+.jumbotron{
+    height: 175px;
+    background-image: url(../images/GOT_title.jpeg);
+    opacity: .9;
+}
+.display-4{
+    z-index: 1000;
+    text-align: center;
+    color: red;
+}
+.buttons{
+    background-color: black;
+    color:white;
+}
+button{
+    background-color: grey;
+}
+.container{
+    background-color: darkgray;
+}
+h2{
+    color: black;
+    font-size: 50px;
+}
+.column{
+
+}
+.gameScreen{
+    text-align: center;
+    color: red;
+    border: 2px solid black;
+    margin: 10px auto;
+    width: 80%;
+    height: 500px;
+    background-image: url(../images/GOT_throne.jpeg);
+    opacity: .8;
+}
+.textColor{
+    z-index: 1000;
+    opacity: 1;
+}
+#strikes{
+    text: black;
+}
